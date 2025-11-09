@@ -11,4 +11,4 @@ For calculating the similarities, we used the code provided in calc_similarities
 GHisBERT is available as a huggingface repository under https://huggingface.co/christinbeck/GHisBERT.
 
 For more information, please see the following paper:
-[will be added soon.]
+Christin Beck and Marisa Köllner. 2023. GHisBERT – Training BERT from scratch for lexical semantic investigations across historical German language stages. In Proceedings of the 4th Workshop on Computational Approaches to Historical Language Change, pages 33–45, Singapore. Association for Computational Linguistics. DOI: 10.18653/v1/2023.lchange-1.4
